@@ -1,0 +1,14 @@
+.b {
+	background-color: lavender;
+}
+
+.p {
+	font-family: Georgia;
+	color: black;
+}
+
+.image {
+	width: 35%;
+	float: left;
+	padding-right: 10px;
+}

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>This text appears in the tab</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> About me: </h1>
+    <img src = "https://www.mercurynews.com/wp-content/uploads/2020/05/GG-BD-01.jpg">
+    <p> I LOVE food. I like to read, draw and listen to music. For a sport, I play soccer. I live in Piedmont, California and I am a junior in highschool at Piedmont High School</p>	
+  </body>
+</html>
+

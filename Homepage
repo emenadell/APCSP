@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Eme Nadell </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <h1>Welcome!</h1>
+    <img src = "http://piedmont.k12.ca.us/images/H1steambldg.jpg">
+    <p>Hello, I am Eme. Welcome to my website.</p>
+  </body>
+</html>
